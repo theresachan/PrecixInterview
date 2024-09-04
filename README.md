@@ -1,5 +1,5 @@
 # Top K Frequent Elements Finder
-Overview
+
 This script provides a function to find the k most frequent elements in an integer array. The solution is efficient and works well even for large input sizes. The function returns the elements in any order.
 
 Requirements
