@@ -9,9 +9,6 @@ WeatherPrecixJava is an Android application that allows users to input latitude 
 - **Error Handling:** Handles network timeouts and API errors with appropriate user feedback.
 - **Unit Testing:** Includes JUnit tests for input validation.
 
-## Screenshots
-
-[Include any relevant screenshots here]
 
 ## Getting Started
 
